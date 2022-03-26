@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: dbyll
+title: Dan Yoo
 
 defaults:
   -
@@ -18,10 +18,10 @@ defaults:
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
+  name: Dan Yoo
+  email: hsaurs@gmail.com
+  github: github.com/hsaurs
+  twitter: Dan Yoo
   pinterest: asd123
   linkedin: asd123
   bio: Your stylish, minimalist theme!
